@@ -1,0 +1,9 @@
+#超级用户：
+account: 'admin'
+password: '123456'
+mail: '464009624@qq.com'
+
+#用户1：
+account: 'user_1',
+password: 'test123456'还是'123456test',
+mail: 'user_1@example.com'
